@@ -2,7 +2,7 @@
 
 This project is a custom Laravel Artisan command that backs up a MySQL database and uploads it to Google Drive — using a Google Service Account.
 
-> 👑 Owner: **greatHimansh**
+> 👑 Owner: **greatHimanshu**
 
 ---
 
@@ -32,7 +32,7 @@ This project is a custom Laravel Artisan command that backs up a MySQL database 
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/greatHimansh/export-database.git
+git clone https://github.com/greatHimanshu/export-database.git
 cd export-database
 composer install
 ```
@@ -153,8 +153,8 @@ On Windows, use Task Scheduler to run `php artisan schedule:run` every minute.
 
 ## 👑 Author
 
-Made with ❤️ by **greatHimansh**  
-🔗 GitHub: [greatHimansh](https://github.com/greatHimansh)
+Made with ❤️ by **greatHimanshu**  
+🔗 GitHub: [greatHimanshu](https://github.com/greatHimanshu)
 
 ---
 
