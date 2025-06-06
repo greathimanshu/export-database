@@ -1,0 +1,51 @@
+# Laravel
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.env.*.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+
+# Laravel 8.x or newer
+/.idea
+/.vscode
+/.phpunit.result.cache
+.phpunit.cache
+
+# Laravel Sail
+docker-compose.override.yml
+
+# OS / IDE Files
+.DS_Store
+Thumbs.db
+
+# Composer & NPM
+composer.lock
+yarn.lock
+package-lock.json
+
+# Cache / Logs
+/storage/framework/*
+!/storage/framework/.gitignore
+/storage/logs/*
+!/storage/logs/.gitignore
+
+# IDE-specific files
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Ignoring Laravel Mix artifacts (optional)
+public/hot
+public/mix-manifest.json
+public/js/*.map
+public/css/*.map
+
+# Optional if you're using Telescope
+storage/telescope
+
+# Optional if you're using Laravel Horizon
+horizon.log
